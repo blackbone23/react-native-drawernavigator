@@ -1,5 +1,5 @@
 # react-native-drawernavigator
-This is sample drawernavigator template using react native 0.60
+This is sample drawernavigator template using react native 0.60 (can be used too in 0.59)
 
 I'm using node version 12.4.0 w/ npm version 6.10.0 under Mac Os Mojave 10.14.5
 
@@ -21,6 +21,10 @@ I simplified the installation, here is it :
     npm install react-navigation --save 
     npm install react-native-gesture-handler --save
     react-native link react-native-gesture-handler
+
+
+##### (IF YOU PICK REACT NATIVE UNDER 0.60 STOP RIGHT HERE AND CONTINUE ON ADDITIONAL GESTURE HANDLER SETTINGS)
+
 
 #### On ios (on project root folder)
 
@@ -54,6 +58,10 @@ Add this code on package.json under “lint”: “xxx”
 On your root project execute
 
     npm install
+    
+    
+##### (IF YOU PICK REACT NATIVE UNDER 0.60 CONTINUE HERE)
+
 
 #### Additional on gesture handle must do (if not do this, your drawer can’t close when press on outside the drawer)
 Reference : https://reactnavigation.org/docs/en/getting-started.html#installation
