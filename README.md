@@ -26,13 +26,13 @@ I simplified the installation, here is it :
 ## (IF YOU PICK REACT NATIVE UNDER 0.60 STOP RIGHT HERE AND CONTINUE ON ADDITIONAL GESTURE HANDLER SETTINGS)
 
 
-#### On ios (on project root folder)
+#### On ios (on project root folder) react native v0.60
 
     cd ios
     pod install
 
 
-#### On android (on project root folder)
+#### On android (on project root folder) react native v0.60
 
 Create this file in root directory => react-native.config.js
 
