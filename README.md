@@ -4,7 +4,8 @@ This is sample drawernavigator template using react native 0.60
 I'm using node version 12.4.0 w/ npm version 6.10.0 under Mac Os Mojave 10.14.5
 
 First is build react native project with: 
-    react-native init {project-name}
+
+    react-native init <project-name>
 
 example : 
 
