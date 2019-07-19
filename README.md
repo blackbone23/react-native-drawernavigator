@@ -53,7 +53,7 @@ Add this code on package.json under “lint”: “xxx”
 
 On your root project execute
 
-    npm install on root project
+    npm install
 
 #### Additional on gesture handle must do (if not do this, your drawer can’t close when press on outside the drawer)
 Reference : https://reactnavigation.org/docs/en/getting-started.html#installation
