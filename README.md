@@ -61,9 +61,9 @@ Reference : https://reactnavigation.org/docs/en/getting-started.html#installatio
 To finalise installation of react-native-gesture-handler for Android, be sure to make the necessary modifications to MainActivity.java:
 
 
-package com.drawernavigator;
+    package com.drawernavigator;
 
-import com.facebook.react.ReactActivity;
+    import com.facebook.react.ReactActivity;
 
     // add gesture handle
     import com.facebook.react.ReactActivityDelegate;
