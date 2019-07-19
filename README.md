@@ -23,7 +23,7 @@ I simplified the installation, here is it :
     react-native link react-native-gesture-handler
 
 
-##### (IF YOU PICK REACT NATIVE UNDER 0.60 STOP RIGHT HERE AND CONTINUE ON ADDITIONAL GESTURE HANDLER SETTINGS)
+## (IF YOU PICK REACT NATIVE UNDER 0.60 STOP RIGHT HERE AND CONTINUE ON ADDITIONAL GESTURE HANDLER SETTINGS)
 
 
 #### On ios (on project root folder)
@@ -60,7 +60,7 @@ On your root project execute
     npm install
     
     
-##### (IF YOU PICK REACT NATIVE UNDER 0.60 CONTINUE HERE)
+## (IF YOU PICK REACT NATIVE UNDER 0.60 CONTINUE HERE)
 
 
 #### Additional on gesture handle must do (if not do this, your drawer can’t close when press on outside the drawer)
